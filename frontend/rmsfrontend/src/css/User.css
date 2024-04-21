@@ -1,0 +1,38 @@
+.mainelementusr
+{
+ 
+    margin: 10px 10px;
+    height: fit-content;
+    padding: 10px 10px;
+}
+.subelementusr
+{
+   
+  
+  border-radius: 12px;
+    margin: 0 auto;
+    height: fit-content;
+    width: 1100px;
+    text-align: left;
+    padding: 10px 10px;
+}
+
+
+
+.tablerowusr
+{
+    background-color: rgb(167, 167, 167);
+    font-size: large;
+}
+
+.usrImg
+{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 3px;
+  max-width: 100px;
+}
+
+.usrImg:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }

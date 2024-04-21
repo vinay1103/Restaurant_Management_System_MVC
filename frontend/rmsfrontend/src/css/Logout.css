@@ -1,0 +1,50 @@
+#maincontainer
+{
+ 
+
+background-color: white;
+margin-top: 50px;
+margin-bottom: 50px;
+height: 525px;
+padding-top: 10px ;
+border-radius: 1%;
+
+
+}
+body
+{
+    background-color:rgb(21, 94, 202);
+}
+
+.subelements
+{
+    margin: 0 auto;
+
+    width: 500px;
+    text-align: center;
+    height: 505px;
+}
+
+.subelementimg
+{
+    margin: 0 auto;
+   
+    width: 490px;
+    text-align: center;
+    height: 255px;
+ 
+}
+.subelementtext
+{
+    margin: 0 auto;
+  
+    width: 490px;
+    text-align: center;
+    height: 245px;
+  
+}
+.logouttext
+{
+    font-size: 60px;
+    font-weight: bolder;
+}

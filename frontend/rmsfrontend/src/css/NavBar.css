@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap");
+
+
+
+
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* 
+ 
+
+/* navbar style start  */
+
+.main-nav {
+  width: 100%;
+  height: 5rem;
+  display: grid;
+  background-color:  rgb(7, 7, 7);
+  grid-template-columns: 5rem 1fr 2fr 1fr 5rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+
+
+.social-media {
+  grid-column: 4/5;
+}
+
+.social-media ul {
+  height: 5rem;
+  display: grid;
+  grid-template-columns: max-content repeat(1, 1fr);
+  align-items: center;
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.social-media ul li {
+  text-align: right;
+  padding-left: 50px;
+}
+
+
+
+
+
+.social-media ul li {
+  font-size: 1.2rem;
+
+  color: aliceblue;
+}
+
+
+
+/* hero section   */
+
+
+
+/* responsive css style  */
+@media (max-width: 1080px) {
+  .main-nav {
+    height: 5rem;
+    grid-template-columns: 2rem 3fr 3fr 1fr 2rem;
+  }
+
+  .logo,
+  .menu-link ul,
+  .social-media ul {
+    height: 5rem;
+  }
+}
+
+
+

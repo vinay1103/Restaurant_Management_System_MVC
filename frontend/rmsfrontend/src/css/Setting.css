@@ -1,0 +1,22 @@
+.mainelement
+{
+  
+    margin: 10px 10px;
+    height: fit-content;
+    padding: 10px 10px;
+}
+
+.subelement
+{
+    border: 1.5px solid rgb(172, 172, 172);
+  border-radius: 12px;
+    margin: 0 auto;
+    height: fit-content;
+    width: 600px;
+    text-align: left;
+    padding: 10px 10px;
+}
+/* body
+{
+    background-color: white;
+} */

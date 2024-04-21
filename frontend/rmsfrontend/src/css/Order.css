@@ -1,0 +1,37 @@
+.mainelementord
+{
+ 
+    margin: 10px 10px;
+    height: fit-content;
+    padding: 10px 10px;
+}
+.subelementord
+{
+   
+  
+  border-radius: 12px;
+    margin: 0 auto;
+    height: fit-content;
+    width: 1100px;
+    text-align: left;
+    padding: 10px 10px;
+}
+/* #cattableid
+{
+     border: 1.5px solid 
+    border-radius: 12px; 
+} */
+
+
+.tableroword
+{
+    background-color: rgb(167, 167, 167);
+    font-size: large;
+}
+
+.tabselector
+{
+    height: fit-content;
+    width: 800px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,47 @@
+#maincontainer
+{
+ 
+
+background-color: white;
+margin-top: 50px;
+margin-bottom: 50px;
+height: 525px;
+padding-top: 10px ;
+border-radius: 1%;
+
+}
+body
+{
+    background-color:rgb(21, 94, 202);
+}
+
+#divimage
+{
+     background-image: url(../images/IMG_20220402_233521.png);
+     background-size: cover;
+    
+     margin-right: 10px;
+     height: 505px;
+     border-radius: 1%;
+}
+
+#divlogin
+{
+    
+  
+     margin-right: 10px;
+     margin-left: 10px;
+     height: 505px;
+     border-radius: 1%;
+     
+}
+
+#divheading
+{
+    
+   
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+     
+}
